@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Louis-Adrien Debey</h1>
-<h3 align="center">A FullStack Developer</h3>
+<h3 align="center">A FullStack Developer living in France</h3>
 
 - 📫 How to reach me **louisadriendebey@gmail.com**
 
