@@ -3,9 +3,9 @@
 
 - 📫 How to reach me **louisadriendebey@gmail.com**
 
-- 🔭 I’m currently working on <a href="https://github.com/LADebey/workout-tracker-backend">**Workout_Tracker**</a>
+- 🔭 I’m currently working on <a href="https://github.com/LADebey/fit-me-front">**FIT ME**</a>
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **JavaScript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
