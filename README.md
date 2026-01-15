@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **louisadriendebey@gmail.com**
 
-- 🔭 I’m currently working on <a href="https://github.com/LADebey/fit-me-front">**FIT ME**</a>
+- 🔭 I’m currently working on <a href="https://github.com/LADebey/Fit-Me-Front">**FIT ME**</a>
 
 - 🌱 I’m currently learning **JavaScript**
 
