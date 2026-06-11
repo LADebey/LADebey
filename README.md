@@ -43,11 +43,7 @@ When I'm not hitting the keyboard, I'm usually hitting the gym—I'm a massive w
 ### 📊 My GitHub Stats
 
 <div align="center">
-  
-![LADebey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LADebey&show_icons=true&theme=radium&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LADebey&layout=compact&theme=radium&hide_border=true)
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LADebey&theme=radium" alt="LADebey's GitHub Stats" />
 </div>
 
 ---
