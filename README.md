@@ -2,7 +2,7 @@
 
 <img align="right" width="300" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
-** Fullstack Developer**
+**Fullstack Developer**
 
 ### 👨‍💻 About Me
 
@@ -43,8 +43,11 @@ When I'm not hitting the keyboard, I'm usually hitting the gym—I'm a massive w
 ### 📊 My GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=LADebey&show_icons=true&theme=radium&hide_border=true" alt="LADebey's GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LADebey&layout=compact&theme=radium&hide_border=true" alt="Top Languages" />
+  
+![LADebey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LADebey&show_icons=true&theme=radium&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LADebey&layout=compact&theme=radium&hide_border=true)
+
 </div>
 
 ---
