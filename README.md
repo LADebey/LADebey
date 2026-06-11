@@ -2,16 +2,16 @@
 
 <img align="right" width="300" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
-**Backend & Fullstack Developer**
+** Fullstack Developer**
 
 ### 👨‍💻 About Me
 
-Welcome to my GitHub profile! I am a passionate developer who enjoys building robust and scalable applications. I like working across the stack but have a strong focus on backend architecture and databases. I am always striving to write clean, efficient code and currently expanding my system programming skills.
+Welcome to my GitHub! I'm a passionate tech enthusiast currently working as an **AI & Automation Project Manager (Apprentice)** within the Microsoft 365 ecosystem. While I have a strong background in backend architecture and databases, what really drives me is my curiosity. I absolutely love learning, discovering new technologies, and exploring everything related to the tech world in general. 
 
 **Beyond the screen:**
-When I'm not hitting the keyboard, I'm usually hitting the gym—I'm a big weightlifting enthusiast! 🏋️‍♂️ I also enjoy taking long walks with my dog 🐕, and I have a deep passion for learning foreign languages, especially Asian languages. 🌏
+When I'm not hitting the keyboard, I'm usually hitting the gym—I'm a massive weightlifting enthusiast! 🏋️‍♂️ I also enjoy taking long walks with my dog 🐕, and I have a deep passion for learning foreign languages, especially Asian languages. 🌏
 
-- 🔭 I’m currently working on **[Asgard-os]**
+- 🔭 I’m currently working on **AI & Automation in M365** and **[Asgard-Os](https://github.com/LADebey/Asgard-Os)**
 - 🌱 I’m currently diving deep into **Rust**
 - 📫 How to reach me: **[louisadriendebey@gmail.com]**
 
