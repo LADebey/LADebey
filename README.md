@@ -1,6 +1,5 @@
 # Hi there, I'm LADebey! 👋
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 **Fullstack Developer**
 
@@ -13,7 +12,7 @@ When I'm not hitting the keyboard, I'm usually hitting the gym—I'm a massive w
 
 - 🔭 I’m currently working on **AI & Automation in M365** and **[Asgard-Os](https://github.com/LADebey/Asgard-Os)**
 - 🌱 I’m currently diving deep into **Rust**
-- 📫 How to reach me: **[louisadriendebey@gmail.com]**
+- 📫 How to reach me: **[louisadriendebey@gmail.com](mailto:louisadriendebey@gmail.com)**
 
 ### 🛠️ My Tech Stack
 
@@ -40,11 +39,15 @@ When I'm not hitting the keyboard, I'm usually hitting the gym—I'm a massive w
 
 ---
 
-### 📊 My GitHub Stats
+---
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LADebey&theme=radium" alt="LADebey's GitHub Stats" />
-</div>
+### 🐍 My GitHub Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LADebey/LADebey/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LADebey/LADebey/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LADebey/LADebey/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
